@@ -1,2 +1,2 @@
-# NDX100_Sharp_Ratio_Strategy
+# NDX100_Sharpe_Ratio_Strategy
 t
